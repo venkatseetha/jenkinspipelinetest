@@ -9,4 +9,5 @@ pipeleine {
         sh 'mvn --version'
       }
     }
+  }
     
